@@ -1,3 +1,4 @@
+[![flow](https://github.com/altwazar/hexlet-ci-app/actions/workflows/flow.yml/badge.svg)](https://github.com/altwazar/hexlet-ci-app/actions/workflows/flow.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
